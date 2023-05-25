@@ -1,5 +1,11 @@
 # GrandTheftAurach
 
+## The Game
+
+Grand Theft Aurach is an open world game set in the small town of Aurach, where players have to fight the hardships of country life.
+
+It is set in third person and offers multiplayer support (hopefully)
+
 ## Artstyle
 
 Kind of like this:
